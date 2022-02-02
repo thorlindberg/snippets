@@ -86,6 +86,8 @@ struct MapView: UIViewRepresentable {
         mapView.mapType = .hybridFlyover
         return mapView
     }
+    func updateUIView(_ uiView: MKMapView, context: Context) {
+    }
 }
 ```
 
