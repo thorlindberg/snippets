@@ -1,5 +1,4 @@
-## Code patterns
-A collection of code patterns from my experience with various programming languages.
+A collection of code snippets from my experience with various programming languages.
 
 ### Swift / SwiftUI
 
